@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/tinkeringCordovaVue.iml" filepath="$PROJECT_DIR$/.idea/tinkeringCordovaVue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HelloCordovaVueMdl.iml" filepath="$PROJECT_DIR$/.idea/HelloCordovaVueMdl.iml" />
     </modules>
   </component>
 </project>
